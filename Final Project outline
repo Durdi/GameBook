@@ -1,0 +1,44 @@
+Final Project outline.
+
+Characters
+- Main Character
+	- named by player
+	- class set by player
+	- race set by player
+	+future character ideas
+		- CLose friend of player
+			- sex determined by the main characters sex
+			-class set. 2 archetypes based on main characters class choices.
+		- nerdy friend of the trio.
+			- healer
+			- Male character
+		- Death character
+			- love interest?
+			- probably a rogue/thief type
+
+Failure conditions
+- player dies
+
+Victory condition
+- player defeats boss
+
+Game Controller
+- Tracks player health
+- Tracks game flow
+- Upon initialization it will set the number of events in each stage
+	- 3-9 events per stage
+- There are 3 stages
+	+ Stage 1
+		- Woods
+		- Enemies
+			- Goblins
+			- Kobolds
+			- 
+		- Castle courtyard
+		- Enemies
+			- Orcs
+			- Ogres
+			- Vampires
+
+Setting
+- Castle is on a cliff. Some kind of fantasy reaching building. Jutting off the mountains.
